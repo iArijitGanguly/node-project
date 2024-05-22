@@ -1,6 +1,10 @@
+import WorkFlow from './components/WorkFlow';
+
 const App: React.FC = () => {
   return(
-    <div></div>
+    <div>
+      <WorkFlow />
+    </div>
   );
 };
 
